@@ -15,7 +15,6 @@
             <artifactId>telegrambots</artifactId>
             <version>${telegramApiVersion}</version>
         </dependency>
-
     </dependencies>
 
     <properties>
